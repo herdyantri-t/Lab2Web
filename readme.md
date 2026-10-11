@@ -33,44 +33,58 @@ Pada tahap ini mempelajari bagaimanan cara membuat sebuah form pada HTML
 ---
 
 ## 4. Menggunakan radio button dan checkbox
-Pada tahap ini mempelajari bagaimanan cara menggunakan radio button dan checbox dan fungsinya ashcvhavchjdvcvdcv
+Pada tahap ini mempelajari bagaimanan cara menggunakan radio button dan checbox dan fungsinya pada HTML.
 
 ### Hasil
 
-![menyisipkan gambar](media/latihan4.png)
+![menyisipkan gambar](media/Latihan4.png)
 
 ---
 
-## 5. Mengatur Ukuran Gambar
-Untuk mengatur ukuran gambar dapat digunakan atribut width dan height.
+## 5. Menggunakan select dan textarea
+mempelajari fungsi dan cara mengugnakan select dan textarea.
 
 ### Hasil
 
-![ukuran gambar](images/latihan5.png)
+![ukuran gambar](media/Latihan5.png)
 
 ---
 
-## 6. Menambahkan Hyperlink
-Pada tahap ini mempelajari cara membuat hyperlink
+## 6. Menambahkan validasi form dasar pada HTML.
+Pada tahap ini mempelajari cara membuat Validasi form dasar.
 
 ### Hasil
 
-![ukuran gambar](images/latihan6.png)
+![ukuran gambar](media/Latihan6.png)
 
 ---
 
-## 7. Menambahkan List
-Pada tahap ini mempelajari cara menambahkan list pada HTML.
+## 7. Membuat halaman semantic HTML
+Pada tahap ini mempelajari cara membuat sebuah halaman semantic HTML.
 
 ### Hasil
 
-![ukuran gambar](images/latihan7.png)
+![ukuran gambar](media/Latihan7.png)
 
 ---
 
-## 8. Kesimpulan
+## 8. Menambahakan multimedia pada HTML
+Pada tahap ini mempelajari cara menambahkan multimedia pada HTML.
+### Hasil
 
-Pada praktikum ini saya mempelajari dasar-dasar pembuatan halaman web
-menggunakan HTML, mulai dari membuat struktur dokumen HTML, heading,
-paragraph, hyperlink, mennyisipkan gambar, membuat list dan mengatur ukuran gambar.
+![ukuran gambar](media/Latihan8.png)
+
+---
+
+## 9. proyek mini pada HTML
+Pada tahap ini membuat sebuah proyek mini pada HTML.
+### Hasil
+
+![ukuran gambar](media/Latihan9.png)
+
+---
+
+## 10. Kesimpulan
+
+Pada praktikum ini saya mempelajari cara pembuatan sebuah tabel dan membuat biodata sederhana menggunakan HTML.
 
