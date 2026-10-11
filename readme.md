@@ -33,7 +33,7 @@ Pada tahap ini mempelajari bagaimanan cara membuat sebuah form pada HTML
 ---
 
 ## 4. Menggunakan radio button dan checkbox
-Pada tahap ini mempelajari bagaimanan cara menggunakan radio button dan checbox dan fungsinya
+Pada tahap ini mempelajari bagaimanan cara menggunakan radio button dan checbox dan fungsinya ashcvhavchjdvcvdcv
 
 ### Hasil
 
