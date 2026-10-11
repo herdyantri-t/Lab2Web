@@ -19,7 +19,7 @@ Pada tahap ini kita belajar membuat struktur tabel menggunakan thead, tbody, dan
 
 ### Hasil
 
-![menambahakan judul](media/latihan2.png)
+![menambahakan judul](media/Latihan2.png)
 
 ---
 
@@ -28,7 +28,7 @@ Pada tahap ini kita belajar membuat struktur tabel menggunakan thead, tbody, dan
 Pada tahap ini mempelajari bagaimanan cara membuat sebuah form pada HTML
 ### Hasil
 
-![memformat teks](media/latihan3.png)
+![memformat teks](media/Latihan3.png)
 
 ---
 
