@@ -32,8 +32,8 @@ Pada tahap ini mempelajari bagaimanan cara membuat sebuah form pada HTML
 
 ---
 
-## 4. Menggunakan exterTa, Select dan button pada HTML
-Pada tahap ini mempelajari bagaimanan cara menggunakan Textera, Select, dan Button serta fungsinya pada HTML.
+## 4. Menggunakan radio button dan checkbox
+Pada tahap ini mempelajari bagaimanan cara menggunakan radio button dan checbox dan fungsinya
 
 ### Hasil
 
