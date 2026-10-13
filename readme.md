@@ -1,4 +1,4 @@
-# Lab1Web
+# Lab2Web
 
 Repository ini berisi hasil praktikum Pertemuan 4 pemograman web.
 
